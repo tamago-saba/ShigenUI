@@ -1,0 +1,10 @@
+name: ShigenUI
+version: '1.0.0'
+main: net.nutchi.shigenUI.ShigenUI
+api-version: '1.21'
+depend: [ Multiverse-Core ]
+commands:
+  shigen:
+    aliases: [ sh ]
+    description: Open a GUI
+    usage: /<command>
