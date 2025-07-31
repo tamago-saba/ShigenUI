@@ -1,6 +1,6 @@
 name: ShigenUI
 version: '1.0.0'
-main: net.nutchi.shigenUI.ShigenUI
+main: com.github.e2318501.shigenUI.ShigenUI
 api-version: '1.21'
 depend: [ Multiverse-Core ]
 commands:

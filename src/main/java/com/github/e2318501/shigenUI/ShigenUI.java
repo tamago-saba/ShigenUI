@@ -1,4 +1,4 @@
-package net.nutchi.shigenUI;
+package com.github.e2318501.shigenUI;
 
 import com.google.common.collect.ImmutableMap;
 import com.onarandombox.MultiverseCore.MultiverseCore;

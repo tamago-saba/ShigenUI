@@ -1,4 +1,4 @@
-package net.nutchi.shigenUI;
+package com.github.e2318501.shigenUI;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
